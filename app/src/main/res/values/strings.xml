@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Button-counter-seacrist</string>
+        <string name = "counterText"> Counter is at: "</string>
+        <string name = "Clear">Clear </string>
+        <string name = "Decrease"> Decrease </string>
+        <string name = "Increase"> Increase </string>
+</resources>
